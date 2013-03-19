@@ -1,7 +1,5 @@
-G-Key-TS
-========
-
 Logitech G-Key Teamspeak Plugin.
+========
 
 Original by Jules Blok.
 
