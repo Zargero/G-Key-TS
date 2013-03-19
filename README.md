@@ -5,7 +5,7 @@ Logitech G-Key Teamspeak Plugin
 
 Original by Jules Blok
 
-Click arrow under Defaunt Profile to go to scripting copy code from "Script.lua" into box
+Click arrow under Default Profile to go to scripting copy code from "Script.lua" into box
 
 Change line 3 of script.lua "if gkey == 3" to gkey ==your gkey you wish to bind it to
 
