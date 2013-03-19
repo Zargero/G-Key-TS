@@ -11,6 +11,6 @@ Click arrow under Default Profile to go into scripting mode copy code from "Scri
 
 Change line 3 of script.lua "if gkey == 3" to gkey ==your gkey you wish to bind it to, Save.
 
-Download Plugin at http://addons.teamspeak.com/directory/plugins/hardware/G-Key-plugin.html
+Download Plugin at http://addons.teamspeak.com/directory/plugins/hardware/G-Key-plugin.html or download .Zip of the repository
 
-Install and restart teamspeak, you should be set.
+Install plugin and restart teamspeak, you should be set.
