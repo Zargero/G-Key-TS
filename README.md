@@ -7,9 +7,9 @@ Open Logitech Gaming Software.
 
 Go to Customize G-Keys (Profiles).
 
-Click arrow under Default Profile to go into scripting mode copy code from "Script.lua" into box, Save.
+Click arrow under Default Profile to go into scripting mode copy code from "Script.lua" into box.
 
-Change line 3 of script.lua "if gkey == 3" to gkey ==your gkey you wish to bind it to.
+Change line 3 of script.lua "if gkey == 3" to gkey ==your gkey you wish to bind it to, Save.
 
 Download Plugin at http://addons.teamspeak.com/directory/plugins/hardware/G-Key-plugin.html
 
